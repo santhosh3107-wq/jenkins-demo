@@ -1,6 +1,6 @@
 print("Hello from GitHub CI/CD 🚀")
 def greet():
-    return "Hello jenkins"
+    return "Hello world"
 
 if __name__ == "__main__":
     print(greet())
